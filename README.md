@@ -25,7 +25,7 @@
 		return Austin_Texas()
 	
 	def Ambitions():
-		BecomeCXO()
+		BecomeACXO()
 		BeACoolMom()
 		CauseAChange()
 	
