@@ -2,7 +2,7 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<img src = 'https://raw.githubusercontent.com/GandhiDisha/GandhiDisha/main/images/myself.JPG' alt = 'A little code here and there' align='right' height="30px"/>
+<img src = 'https://raw.githubusercontent.com/GandhiDisha/GandhiDisha/main/images/myself.JPG' alt = 'A little code here and there' align='right' height="230px"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-dishagandhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/dishagandhi24)](https://linkedin.com/in/dishagandhi24) [![Gmail Badge](https://img.shields.io/badge/-disha.gandhi@utexas.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:disha.gandhi@utexas.edu)](mailto:disha.gandhi@utexas.edu) [![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fapraneetkumar&logo=leetcode&logoColor=yellow)](https://leetcode.com/apraneetkumar/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GandhiDisha" alt="GandhiDisha" /> </p>
@@ -21,7 +21,10 @@
 * A/B Testing
 * Time Series Analysis
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GandhiDisha&layout=compact">
+
+<p align="center">
+<img width="450" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GandhiDisha&layout=compact" alt="GandhiDisha's Github Stats" />
+</p>
 
 ## Programming Languages
 <img src = 'https://raw.githubusercontent.com/GandhiDisha/GandhiDisha/main/images/c-original.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/GandhiDisha/GandhiDisha/main/images/cpp.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/GandhiDisha/GandhiDisha/main/images/python2.png' height='30'/>  <img src = 'https://raw.githubusercontent.com/GandhiDisha/GandhiDisha/main/images/html.svg' width='30'/> <img src='https://raw.githubusercontent.com/GandhiDisha/GandhiDisha/main/images/java.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/GandhiDisha/GandhiDisha/main/images/r.png' width='30'/> <img src = 'https://raw.githubusercontent.com/GandhiDisha/GandhiDisha/main/images/css.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/GandhiDisha/GandhiDisha/main/images/js.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/GandhiDisha/GandhiDisha/main/images/bootstrap.svg' width='33'/> <img src = 'https://raw.githubusercontent.com/GandhiDisha/GandhiDisha/main/images/php.svg' width='40'/> <img src = 'https://raw.githubusercontent.com/GandhiDisha/GandhiDisha/main/images/sql.svg' width='30'/> 
