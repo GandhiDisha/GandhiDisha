@@ -52,9 +52,9 @@
 * Time Series Analysis
 
 
-<p align="center">
+<!-- <p align="center">
 <img width="450" align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=GandhiDisha&layout=compact" alt="GandhiDisha's Github Stats" />
-</p>
+</p> -->
  
  
 ## Other Stuff
