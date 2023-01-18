@@ -58,8 +58,6 @@
 
 <p align="center">
 <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=GandhiDisha&show_icons=true&line_height=21&theme=react" alt="GandhiDisha's Github Stats" />
-<img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api?username=GandhiDisha&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
 </p>
  
  
